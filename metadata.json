@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Smart Todo",
+  "description": "A streamlined, intelligent todo list aimed at boosting productivity. Features standard task management plus AI-powered task breakdown capabilities using Google's Gemini Flash model.",
+  "requestFramePermissions": []
+}
